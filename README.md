@@ -58,10 +58,6 @@ This repository demonstrates basic authentication procedures in a Node.js applic
 - `/views`: EJS templates
 - `app.js`: Main application file
 
-## License
-
-This project is licensed under the MIT License.
-
 
 
 
